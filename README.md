@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhavv14
-- 👀 I’m interested in evelopment and support
+- 👀 I’m interested in development and support
 - 🌱 I’m currently learning Unix,SQL additionally JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aksv7330@gmail.com
